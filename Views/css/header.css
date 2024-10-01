@@ -1,0 +1,21 @@
+.navbar-nav {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+  }
+  .navbar-nav .nav-item {
+    margin: 0 10px;
+  }
+  .navbar {
+    justify-content: center;
+  }
+  .navbar-collapse {
+    justify-content: center;
+  }
+  .form-inline {
+    display: flex;
+    justify-content: center;
+  }
+  .btn:hover {
+    background-color:#e3f2fd;
+  }
